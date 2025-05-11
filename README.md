@@ -12,9 +12,9 @@ The scripts in this repository automate the following workflow for both AWS and 
 - Generating a structured .json report with all results for further analysis
 
 ## Repository Structure
-- aws.ps1: Script for uploading and processing files on AWS (standalone)
-- azure.ps1: Script for uploading and processing files on Azure (standalone)
-- comparison.ps1: Integrated script that runs the full benchmark on both platforms and generates a comparison report
+- aws-test.ps1: Script for uploading and processing files on AWS (standalone)
+- azure-test.ps1: Script for uploading and processing files on Azure (standalone)
+- comparison-test.ps1: Integrated script that runs the full benchmark on both platforms and generates a comparison report
 - readme.md This file
 
 ## How to Use
